@@ -4,7 +4,6 @@ title: "Research"
 author_profile: true
 redirect_from: 
   - /research/
-  - /research.html
 ---
 
 **Reducing Interview Congestion in Two-Sided Matching Markets Using Preference Signaling** [Paper](files/interviews_congestion_signaling.pdf) <br>
