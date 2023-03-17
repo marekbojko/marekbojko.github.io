@@ -2,10 +2,9 @@
 main:
   - title: "Research"
     url: /research/
-
-   - title: "Policy Work"
-    url: /policy/
     
   - title: "CV"
     url: /files/CV.pdf
     
+  - title: "Policy Work"
+    url: /policy/
