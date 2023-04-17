@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Welcome to my website! I am a Pre-Doctoral Research Professional at the University of Chicago Booth with Milena Almagro and Thomas Wollmann. My research interests are in empirical IO, innovation, and market design.
+
+I will begin a Ph.D. in Economics at Yale University in the fall of 2023.
